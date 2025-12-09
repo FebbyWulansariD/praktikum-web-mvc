@@ -21,7 +21,7 @@ Kami menerapkan arsitektur **Model-View-Controller (MVC)** untuk memisahkan *bus
 | **View (V)** | `views/index.ejs` | Menampilkan data item secara dinamis menggunakan *template engine* EJS. |
 
 
-model-view-controller-light-blue.png
+<img src="model-view-controller-light-blue.png" width="400">
 
 ### Struktur File Utama:
 
