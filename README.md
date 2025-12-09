@@ -1,16 +1,16 @@
 # praktikum-web-mvc
 IMPLEMENTASI ARSITEKTUR MVC UNTUK MANAJEMEN DATA ITEM
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 
 Proyek ini merupakan penyelesaian **Task 1 Praktikum Pengembangan Web** (Modul M12) yang fokus pada integrasi teknologi *backend* dan *frontend*.
 
-Aplikasi yang dihasilkan adalah sistem **CRUD (Create, Read, Update, Delete)** dasar untuk mengelola inventaris **Data Item Baju-baju Wanita** dengan menerapkan arsitektur *Software* yang terstruktur.
+Aplikasi yang dihasilkan adalah sistem **CRUD (Create, Read, Update, Delete)** dasar untuk mengelola inventaris **Data Item Fashion Wanita*** dengan menerapkan arsitektur *Software* yang terstruktur.
 
 ---
 
-## 📐 Arsitektur Proyek (MVC & ORM)
+## Arsitektur Proyek (MVC & ORM)
 
-Kami menerapkan arsitektur **Model-View-Controller (MVC)** untuk memisahkan *business logic* dari tampilan data, serta menggunakan **Sequelize ORM** untuk interaksi dengan *database*.
+Menerapkan arsitektur **Model-View-Controller (MVC)** untuk memisahkan *business logic* dari tampilan data, serta menggunakan **Sequelize ORM** untuk interaksi dengan *database*.
 
 ### Pembagian Tugas Komponen:
 
@@ -21,7 +21,7 @@ Kami menerapkan arsitektur **Model-View-Controller (MVC)** untuk memisahkan *bus
 | **View (V)** | `views/index.ejs` | Menampilkan data item secara dinamis menggunakan *template engine* EJS. |
 
 
-<img src="model-view-controller-light-blue.png" width="400">
+<img src="model-view-controller-light-blue.jpg" width="400">
 
 ### Struktur File Utama:
 
